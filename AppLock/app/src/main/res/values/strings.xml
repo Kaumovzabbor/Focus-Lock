@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Focus Lock</string>
+    <string name="pick_apps_title">Ilovalarni tanlash</string>
+    <string name="history_title">Tarix</string>
+    <string name="set_code_title">Kodni o\'rnatish</string>
+
+    <string name="main_locked_apps_header">Bloklangan ilovalar</string>
+    <string name="main_no_apps">Hali ilova tanlanmagan</string>
+    <string name="main_add_app">+ Ilova qo\'shish</string>
+    <string name="main_view_history">Tarixni ko\'rish</string>
+    <string name="main_change_code">Kodni o\'zgartirish</string>
+    <string name="main_accessibility_needed">Xizmat yoqilmagan. Ishlashi uchun yoqing.</string>
+    <string name="main_accessibility_ok">Xizmat faol</string>
+    <string name="main_enable_accessibility">Ruxsatni yoqish</string>
+    <string name="main_overlay_needed">Ustidan chiqish ruxsati kerak</string>
+    <string name="main_enable_overlay">Ruxsat berish</string>
+
+    <string name="unlock_title">Bloklangan</string>
+    <string name="unlock_subtitle">Davom etish uchun kodni kiriting</string>
+    <string name="unlock_hint">Kod</string>
+    <string name="unlock_button">Tasdiqlash</string>
+    <string name="unlock_wrong">Noto\'g\'ri kod</string>
+    <string name="unlock_go_home">Bosh ekranga</string>
+
+    <string name="setcode_current_hint">Joriy kod (agar mavjud bo\'lsa)</string>
+    <string name="setcode_new_hint">Yangi kod</string>
+    <string name="setcode_confirm_hint">Yangi kodni tasdiqlang</string>
+    <string name="setcode_save">Saqlash</string>
+    <string name="setcode_first_time">Birinchi marta kod o\'rnatilyapti</string>
+    <string name="setcode_wrong_current">Joriy kod noto\'g\'ri</string>
+    <string name="setcode_mismatch">Kodlar mos kelmadi</string>
+    <string name="setcode_too_short">Kod kamida 4 ta belgidan iborat bo\'lsin</string>
+    <string name="setcode_success">Kod saqlandi</string>
+
+    <string name="history_empty">Tarix bo\'sh</string>
+    <string name="history_locked_enter_code">Tarixni ko\'rish uchun kod kiriting</string>
+
+    <string name="picker_locked_enter_code">Ro\'yxatni o\'zgartirish uchun kod kiriting</string>
+    <string name="picker_search_hint">Qidirish…</string>
+
+    <string name="event_attempt_success">Ochildi: %1$s</string>
+    <string name="event_attempt_fail">Noto\'g\'ri urinish: %1$s</string>
+    <string name="event_app_added">Ro\'yxatga qo\'shildi: %1$s</string>
+    <string name="event_app_removed">Ro\'yxatdan olib tashlandi: %1$s</string>
+    <string name="event_code_changed">Kod o\'zgartirildi</string>
+    <string name="event_accessibility_disabled">Diqqat: Accessibility xizmati o\'chirildi</string>
+    <string name="event_uninstall_attempt">Ilovani o\'chirishga urinish qilindi</string>
+    <string name="accessibility_service_description">Focus Lock ilovasi qaysi ilova ochilganini kuzatib, bloklangan ilovalar uchun kod so\'rash ekranini ko\'rsatadi.</string>
+</resources>
